@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69d4f451-5156-4a8d-a076-ea568ccc299e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/clientfx/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2200">
+              <caret line="105" column="45" lean-forward="false" selection-start-line="105" selection-start-column="45" selection-end-line="105" selection-end-column="45" />
+              <folding>
+                <element signature="e#1180#1181#0" expanded="true" />
+                <element signature="e#1213#1214#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding>
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServerBot.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/ServerBot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2025">
+              <caret line="82" column="43" lean-forward="false" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/MyServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="31" column="23" lean-forward="false" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/ClientHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2350">
+              <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseAuthService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/BaseAuthService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+              <folding>
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#842#843#0" expanded="true" />
+                <element signature="e#917#918#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/AuthService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/clientfx/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+              <folding>
+                <element signature="e#668#669#0" expanded="true" />
+                <element signature="e#696#697#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>this</find>
+      <find>Input</find>
+      <find>sendMsg</find>
+      <find>getClientByNick</find>
+      <find>getAllClients</find>
+      <find>connect</find>
+      <find>equals</find>
+      <find>authorized</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/lesson1/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/lesson1/Swimable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/lesson1/inner/Outer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz1/AlinaZhirova/Obstacle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz1/AlinaZhirova/Wall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz1/AlinaZhirova/Cross.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz1/AlinaZhirova/Ditch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz1/AlinaZhirova/Pit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz1/AlinaZhirova/Labyrinth.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/lesson1/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz1/AlinaZhirova/Team.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz1/AlinaZhirova/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz1/AlinaZhirova/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz2/AlinaZhirova/MyArraySizeException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz2/AlinaZhirova/MyArrayDataException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz2/AlinaZhirova/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz2/AlinaZhirova/StringArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz3/AlinaZhirova/Passenger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz3/AlinaZhirova/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz4/AlinaZhirova/ClientWIndow.form" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz4/AlinaZhirova/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz4/AlinaZhirova/ClientWindow.form" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz4/AlinaZhirova/ClientWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz5/AlinaZhirova/MyRunnableClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz5/AlinaZhirova/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz5/AlinaZhirova/MyRun.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz5/AlinaZhirova/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz6/AlinaZhirova/client/ClientThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz6/AlinaZhirova/server/ServerThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz6/AlinaZhirova/client/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz6/AlinaZhirova/server/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz7/AlinaZhirova/server/AuthService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz7/AlinaZhirova/server/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz7/AlinaZhirova/client/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz7/AlinaZhirova/client/MyWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz7/AlinaZhirova/server/BaseAuthService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz7/AlinaZhirova/server/MyServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz7/AlinaZhirova/server/ClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/client/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/client/MyWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/AuthService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/BaseAuthService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/ServerBot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/ClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/MyServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/sample.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/style.css" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/clientfx/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/clientfx/Controller.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="471" />
+    <option name="width" value="1448" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ClientServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java2" type="462c0819:PsiDirectoryNode" />
+              <item name="AlinaZhirova" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java2" type="462c0819:PsiDirectoryNode" />
+              <item name="AlinaZhirova" type="462c0819:PsiDirectoryNode" />
+              <item name="clientfx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java2" type="462c0819:PsiDirectoryNode" />
+              <item name="AlinaZhirova" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TicTacToe" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="273" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.java2.dz.dz8.AlinaZhirova.clientfx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.java2.dz.dz8.AlinaZhirova.clientfx.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java2" />
+      <envs />
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.java2.dz.dz7.AlinaZhirova.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.java2.dz.dz7.AlinaZhirova.server.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java2" />
+      <envs />
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.java2.dz.dz7.AlinaZhirova.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.java2.dz.dz7.AlinaZhirova.client.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java2" />
+      <envs />
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.java2.dz.dz8.AlinaZhirova.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.java2.dz.dz8.AlinaZhirova.client.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java2" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.java2.dz.dz8.AlinaZhirova.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.java2.dz.dz8.AlinaZhirova.server.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java2" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main (3)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main (4)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main (5)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main (5)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main (4)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69d4f451-5156-4a8d-a076-ea568ccc299e" name="Default" comment="" />
+      <created>1511035809533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511035809533</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1046" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20428894" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25364584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.261661" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/lesson1/Human.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz1/AlinaZhirova/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz1/AlinaZhirova/Team.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz1/AlinaZhirova/Course.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz2/AlinaZhirova/Maim.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz2/AlinaZhirova/MyArraySizeException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz2/AlinaZhirova/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz2/AlinaZhirova/MyArrayDataException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz2/AlinaZhirova/StringArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/lesson2/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz3/AlinaZhirova/Passenger.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz3/AlinaZhirova/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz4/AlinaZhirova/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz4/AlinaZhirova/ClientWindow.form" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz4/AlinaZhirova/ClientWindow.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz5/AlinaZhirova/MyRunnableClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz5/AlinaZhirova/MyThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz5/AlinaZhirova/MyRun.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz5/AlinaZhirova/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz6/AlinaZhirova/Test.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33858">
+          <caret line="1539" column="0" lean-forward="false" selection-start-line="1539" selection-start-column="0" selection-end-line="1539" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz6/AlinaZhirova/server/ServerThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz6/AlinaZhirova/client/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz6/AlinaZhirova/server/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz6/AlinaZhirova/client/ClientThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz7/AlinaZhirova/bb.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz7/AlinaZhirova/server/AuthService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz7/AlinaZhirova/client/MainClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz7/AlinaZhirova/client/Main.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/DataInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="563" column="0" lean-forward="false" selection-start-line="563" selection-start-column="0" selection-end-line="563" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz7/AlinaZhirova/server/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz7/AlinaZhirova/client/MyWindow.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz7/AlinaZhirova/server/MyServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz7/AlinaZhirova/server/BaseAuthService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz7/AlinaZhirova/server/ClientHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/aa.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/client/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/client/MyWindow.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/DBAuthService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sample.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/clientfx/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/clientfx/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2200">
+          <caret line="105" column="45" lean-forward="false" selection-start-line="105" selection-start-column="45" selection-end-line="105" selection-end-column="45" />
+          <folding>
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1213#1214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/ServerBot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="82" column="43" lean-forward="false" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/MyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="31" column="23" lean-forward="false" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/ClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2350">
+          <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/AuthService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/geekbrains/java2/dz/dz8/AlinaZhirova/server/BaseAuthService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+.text-area {
+    -fx-font-size: 14;
+    -fx-text-fill: #000000;
+}
+
+.text-area .content {
+    -fx-background-color: linear-gradient(#ffffff 0%, #dddddd 20%, #DB7093 100%);
+}
+
+
+.list-view .list-cell:hover {
+    -fx-background-color: #A9A9A9;
+    -fx-text-fill: #ffffff;
+}
+
+.list-view .list-cell:selected {
+    -fx-background-color: #DB7093;
+    -fx-text-fill: #000000;
+}
